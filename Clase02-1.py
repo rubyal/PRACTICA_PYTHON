@@ -16,8 +16,6 @@ print(a%b)
 
 
 
-
-
 a= "mi nombre es"
 b= " Ruby"
 print (a+b)
@@ -171,14 +169,8 @@ var2=2
 var3="3"
 print(var+var2+var3)
 
-###clase 03 
 
-ventas["manzanas"] #ver los objetos en esa columna
-ventas["manzanas"],["naranjas"] #o en varias
-ventas[0:3 #veo los tres primeros objetos
-ventas[["manzanas"][0]]
-ventas.loc[:, ["naranjas"]] #imprimir datos seleccionados con la función loc
-ventas.iloc[3] #localiza
+
 
 
 
